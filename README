@@ -1,0 +1,34 @@
+# 🍕 Pizza Shop
+
+**Pizza Shop** is a web-based ordering platform that allows users to browse a menu of delicious pizzas, customize their selections, place an order, and pay with cash upon delivery.  
+It’s designed for a smooth and fast ordering experience with a modern, responsive UI.
+
+# the porject is not mobile friendly so be ware as this project main perpose is to learn React and React
+
+---
+
+## 📜 Features
+
+- Browse available pizzas with images, prices, and descriptions.
+- Add pizzas to the cart and review the order.
+- Place an order with customer details.
+- Cash on delivery payment method.
+
+---
+
+## 🛠 Technologies Used
+
+- **React** – Frontend library for building the UI.
+- **Tailwind CSS** – Utility-first CSS framework for styling.
+
+---
+
+## 📦 Installation Guide
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone Repo URL
+cd pizza-shop
+npm install
+```
