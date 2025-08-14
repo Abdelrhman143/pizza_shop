@@ -9,7 +9,7 @@ It’s designed for a smooth and fast ordering experience with a modern, respons
 
 ## 🚀 Live Demo
 
-[View on netlify](venerable-faloodeh-0624d8.netlify.app)
+[View on netlify](https://pizzashop2.netlify.app)
 
 ---
 
